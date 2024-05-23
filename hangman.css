@@ -1,0 +1,42 @@
+ #tries{
+        font-size: 15vh;
+      }
+    body{
+        background: linear-gradient(#00416A,#E4E5E6);
+        background-attachment: fixed;
+      }
+        label{
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 30vh;
+      display: block;
+      text-align: center;
+        }
+      
+        div{
+          font-size: 10vh;
+          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+          text-align: center;
+        }
+        button{
+          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           height: 10vh;
+           font-size: large;
+           background-color: rgb(75, 255, 81);
+           color: rgb(5, 64, 0);
+           border-radius: 2vh;
+           border: 2px solid black;
+        }
+        input{
+          height: 8vh;
+          width: 20vw;
+          font-size: 4vh;
+          border-radius: 5px;
+        }
+       #giveUp{
+         background-color: rgb(255, 68, 68);
+         color: rgb(105, 0, 0);
+       }
+        #temp{
+          background-color:rgba(0, 0, 0, 0);
+          border: none;
+        }
